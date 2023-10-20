@@ -5,3 +5,4 @@ with open(file_name, "w", encoding="UTF-8") as file:
     file.write(text_to_write)
 
 print(f"Файл {file_name} успешно создан и записан.")
+print("featured")
